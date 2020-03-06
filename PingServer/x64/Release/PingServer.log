@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  PingServer.cpp
+  Generating code
+c:\users\mattia.federici\desktop\git\xredis\pingserver\pingserver\pingserver.cpp(43): warning C4715: 'doStuff': not all control paths return a value
+  All 225 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PingServer.vcxproj -> C:\Users\mattia.federici\Desktop\GIT\xredis\PingServer\x64\Release\PingServer.exe
+  PingServer.vcxproj -> C:\Users\mattia.federici\Desktop\GIT\xredis\PingServer\x64\Release\PingServer.pdb (Full PDB)
